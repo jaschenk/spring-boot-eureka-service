@@ -16,7 +16,7 @@
         <source-version>1.8</source-version>
         <target-version>1.8</target-version>
         <java.version>1.8</java.version>
-        <springboot.version>2.1.7.RELEASE</springboot.version>
+        <springboot.version>2.5.12</springboot.version>
         <spring-cloud.version>2.1.2.RELEASE</spring-cloud.version>
         <spring-cloud-dependency.version>Greenwich.SR2</spring-cloud-dependency.version>
     </properties>
